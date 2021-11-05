@@ -1,9 +1,7 @@
 ##  👋 Hello, you found me.
 
-[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:josuapsianturi@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FJosuapsianturi)](https://twitter.com/Josuapsianturi)
 
-I'm a junior web developer
 - 👾 I'm currently interested in buildings web clone with TALL stack ([Tailwindcss](https://tailwindcss.com/), [Alpinejs](https://github.com/alpinejs/alpine/), [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/) ).
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
